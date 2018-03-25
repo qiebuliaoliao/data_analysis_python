@@ -1,2 +1,1 @@
-# data_analysis_python
-data_analysis_python
+# 《利用python进行数据分析》学习笔记
